@@ -26,20 +26,18 @@ Maskroms: MX23C1601-12, M531610D-20, UPD23C4013 and other similar maskrom ICs.
 ![image](img/snes_maskrom_tsop_to_dip_adapter_schematics.png)
 
 ## snes_maskrom_tsop_to_dip_adapter
-TSOP40/TSOP48 to DIP36 adapter. Designed and tested for 29F032/29F033. Replaces original maskrom. Non destructive option, CE\`/OE\` pins of original maskrom should be cut.
+Backside TSOP40/TSOP48 to DIP36 adapter. Designed and tested for 29F032/29F033. Replaces original maskrom. Non destructive option, CE\`/OE\` pins of original maskrom should be cut.
 
 ![image](img/snes_maskrom_tsop_to_dip_adapter_f.png) ![image](img/snes_maskrom_tsop_to_dip_adapter_b.png)
 
 ![image](img/snes_maskrom_tsop_to_dip_adapter.jpg)
 
 
+## snes_maskrom_tsop_to_fx_adapter
 Adapters to replace SNES PSOP36/PSOP42 maskrom with TSOP40/TSOP48 Flash.
 
 Maskroms: MX23C1601-12, M531610D-20, UPD23C4013 and other similar maskrom ICs.
 
-![image](img/snes_superfx_adapter_small_adapter_schematics.png)
-
-## snes_maskrom_tsop_to_fx_adapter
 Inspired by https://github.com/retrostage/SNES-SuperFX-adapter project.
 Redesigned in KiCad to use less expensive production process, added some test points (WE#, RST#) for inschematic programming ability.
 
