@@ -80,7 +80,7 @@
 			(layerselection 0x00000000_00000000_55555555_5755f5ff)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
 			(disableapertmacros no)
-			(usegerberextensions no)
+			(usegerberextensions yes)
 			(usegerberattributes yes)
 			(usegerberadvancedattributes yes)
 			(creategerberjobfile yes)
@@ -111,9 +111,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "gerber")
 		)
 	)
 	(net 0 "")
@@ -2231,14 +2231,14 @@
 		(layer "Edge.Cuts")
 		(uuid "6ea96ea0-a175-4fc5-813a-1c44bf6900d6")
 	)
-	(gr_text "snes\ntsop2maskrom\npapkor 05.26\nrev.2 vk.com/\ngame_console_hw"
+	(gr_text "snes\ntsop2maskrom rev2\npapkor 05.26\nvk.com/games_hw"
 		(at 121.539 109.347 0)
 		(layer "B.SilkS")
 		(uuid "593037fa-3145-4143-b2e3-0fdc89314183")
 		(effects
 			(font
-				(size 1 1)
-				(thickness 0.25)
+				(size 1 0.9)
+				(thickness 0.225)
 				(bold yes)
 			)
 			(justify bottom mirror)

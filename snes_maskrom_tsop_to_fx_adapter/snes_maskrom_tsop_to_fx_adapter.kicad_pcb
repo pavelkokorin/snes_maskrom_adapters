@@ -2665,7 +2665,7 @@
 		(layer "Edge.Cuts")
 		(uuid "607b00ac-20e2-4f32-ac9d-f45bb1edf94f")
 	)
-	(gr_text "snes tsop2fx rev1.2"
+	(gr_text "snes tsop2fx rev2"
 		(at 38.5826 30.2768 0)
 		(layer "F.SilkS")
 		(uuid "24e93eea-784a-4457-86d7-0567a108ba6a")
@@ -2677,14 +2677,14 @@
 			)
 		)
 	)
-	(gr_text "papkor 11.25"
-		(at 45.7454 20.828 90)
+	(gr_text "papkor 05.26\nvk.com/games_hw"
+		(at 45.3644 20.7772 90)
 		(layer "F.SilkS")
 		(uuid "77af837c-bf14-4611-8293-b44bf9e2d1d6")
 		(effects
 			(font
-				(size 0.5 0.5)
-				(thickness 0.125)
+				(size 0.5 0.4)
+				(thickness 0.1)
 				(bold yes)
 			)
 		)

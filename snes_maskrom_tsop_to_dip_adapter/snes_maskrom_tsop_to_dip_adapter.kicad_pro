@@ -450,7 +450,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "tsop_to_dip_snes_maskrom_adapter.kicad_pro",
+    "filename": "snes_maskrom_tsop_to_dip_adapter.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -486,7 +486,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "gerber",
       "pos_files": "",
       "specctra_dsn": "tsop_to_dip_snes_maskrom_adapter.dsn",
       "step": "",
