@@ -40,6 +40,6 @@ Redesigned in KiCad to use less expensive production process, added some test po
 
 ![image](img/snes_maskrom_tsop_to_fx_adapter_schematics.png)
 
-![image](img/snes_maskrom_tsop_to_fx_adapter_f.png)
-![image](img/snes_maskrom_tsop_to_fx_adapter_b.png)
+![image](img/snes_maskrom_tsop_to_fx_adapter_f.png) ![image](img/snes_maskrom_tsop_to_fx_adapter_b.png)
+
 ![image](img/snes_maskrom_tsop_to_fx_adapter.png)
